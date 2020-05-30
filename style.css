@@ -1,0 +1,579 @@
+h1
+{
+  color:red;
+  text-align: center;
+
+}
+
+
+.header
+{
+  display: flex;
+  justify-content: space-between;
+  
+  width:100%;
+  height:100%;
+  position:fixed;
+
+  margin-bottom: 30px;
+  background-color: white;
+  height:75px;
+  position: absolute;
+  z-index: 9999;
+  left: 0px;
+  right: 0px;
+  top: 0px;
+  background-color: #E0E0E0;
+
+
+
+  
+
+}
+
+a{
+  padding-top: 50px;
+
+}
+
+
+
+
+.miss{
+
+  margin-left: 180px;
+}
+
+
+
+
+
+.vis
+{
+  margin-left: 600px;
+
+}
+
+.innermissionandvision
+{
+  display: flex;
+  justify-content: space-between;
+  color: #1A237E;
+
+}
+
+.mission
+{
+  margin-right: 50px;
+}
+
+.vision{
+  margin-left: 80px;
+}
+
+/* .topimage
+{
+ 
+ margin-top: 30px;
+
+} */
+
+.chairdesk
+{
+  
+  justify-content: space-around;
+ 
+
+
+}
+
+
+
+
+.innerchairdesk
+{
+  display: flex;
+  justify-content: space-evenly;
+  color: #1A237E;
+
+}
+
+h2{
+
+  text-align: center;
+}
+
+
+
+.aboutustext1
+{
+  margin-left: 30px;
+  
+
+}
+.aboutschool
+{
+  color: #1A237E; 
+}
+
+
+
+.founderimg
+{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  opacity: 0.5;
+  
+  
+  
+}
+
+.foundertext
+{
+  text-align: center;
+  
+
+}
+
+
+
+h3
+{
+
+  text-align: center;
+}
+
+
+
+/*.missioninaboutus
+{
+
+  margin-left: 800px;
+  
+ 
+}*/
+
+
+
+
+
+
+.visionandmissioninaboutus{
+ display: flex;
+ justify-content: space-around;
+
+}
+
+
+
+
+
+
+
+.chairmanflex
+{
+  display: flex;
+  justify-content: space-between;
+
+}
+
+.chairmantextinaboutus
+{
+  margin-left: 100px;
+}
+
+
+
+.prepri
+{
+  display: flex;
+  justify-content: space-evenly;
+  
+}
+
+.firstinfo
+{
+  color: #1A237E;
+}
+
+
+
+
+
+.junsch
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+
+.midsch
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+
+.sensch
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.senschimg
+{
+  margin-right: 50px;
+  margin-bottom: 30px;
+}
+
+
+.techint
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+.techintimg
+{
+  margin-right: 50px;
+  margin-bottom: 30px;
+
+}
+
+
+
+.faculty
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.facultyimg
+{
+  margin-right: 50px;
+  margin-bottom: 30px;
+}
+
+
+
+.speeducou
+{
+  display: flex;
+  justify-content: space-evenly;
+
+}
+
+.speeducouimg
+{
+  margin-right: 50px;
+  margin-bottom: 30px;
+}
+
+
+
+.smartclass
+{
+  display: flex;
+  justify-content: space-evenly; 
+}
+
+
+
+
+
+.sports
+{
+  display: flex;
+  justify-content: space-evenly; 
+}
+
+
+
+.complab
+{
+  display: flex;
+  justify-content: space-evenly;  
+}
+
+
+
+.chemlab
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+
+.phylab
+{
+  display: flex;
+  justify-content: space-evenly;
+}
+
+
+
+.biolab
+{
+  display: flex;
+  justify-content: space-evenly; 
+}
+
+
+
+.mathlab
+{
+  display: flex;
+  justify-content: space-evenly; 
+}
+
+
+
+.sickroom
+{
+  display: flex;
+  justify-content: space-evenly; 
+}
+
+
+
+.infirmary
+{
+  display: flex;
+  justify-content: space-evenly; 
+}
+
+
+
+.dinehall
+{
+  display: flex;
+  justify-content: space-evenly;  
+}
+
+
+.transport
+{
+  display: flex;
+  justify-content: space-evenly;  
+}
+
+
+
+.security
+{
+  display: flex;
+  justify-content: space-evenly;   
+}
+
+
+
+.library
+{
+  display: flex;
+  justify-content: space-evenly;   
+}
+
+
+.menutext
+{
+  text-align: center;
+}
+
+.menuimg
+{
+  margin-left: 200px;
+}
+
+
+
+.music
+{
+  display: flex;
+  justify-content: space-evenly;   
+}
+
+.dance
+{
+  display: flex;
+  justify-content: space-evenly;   
+}
+
+.theatre
+{
+  display: flex;
+  justify-content: space-evenly;   
+}
+
+
+
+.mulpurtext
+{
+ margin-left: 50px;
+}
+
+
+
+.vocal
+{
+  display: flex;
+  justify-content: space-evenly;   
+}
+
+.artandcraft
+{
+  display: flex;
+  justify-content: space-evenly;    
+}
+
+
+
+
+
+
+.mulpur
+{
+  display: flex;
+  justify-content: space-evenly;  
+}
+
+.footertext1
+{
+  display: flex;
+  justify-content: space-evenly;  
+}
+
+.footer
+{
+  background-color: #757575;
+  margin-top: 300px;
+  opacity: 0.6;
+  color: #ffffff;
+  
+
+}
+
+.row
+{
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0 4px;
+}
+
+.column
+{
+  flex: 50%;
+ 
+  padding: 0 4px;
+}
+
+.img1
+{
+  width : 45%;
+   height : 33vh;
+}
+
+#menu ul
+{
+  list-style: none;
+}
+
+#menu ul li{
+  background-color: red;
+  border: 1px solid white;
+
+  width:150px;
+  height:35px;
+  line-height: 35px;
+  text-align: center;
+  
+  float: left;
+  position: relative;
+  
+}
+
+#menu ul li a
+{
+   text-decoration: none;
+   color: white;
+   
+  
+   
+   
+  
+}
+
+#menu ul li a:hover{
+  color: blue;
+  
+}
+
+#menu ul ul
+{
+  position: absolute;
+  display: none;
+}
+
+#menu ul li:hover > ul
+{
+  display: block;
+}
+
+.contact
+{
+  text-align: center;
+}
+
+.content
+{
+  position: absolute;
+  top: 100px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  overflow-y: scroll;
+}
+
+body
+{
+background-color: #fce4ec;
+}
+
+.aboutusmissandvisimg
+{
+  opacity: 0.4;
+}
+
+.facilities
+{
+  margin-top: 30px;
+  color: #1A237E;
+}
+
+.cocurricularactivity
+{
+  margin-top: 30px;
+  color: #1A237E;
+}
+
+.academics
+{
+  margin-top: 30px;
+  color: #1A237E;
+}
+
+.aboutus
+{
+  margin-top: 30px;
+  color: #1A237E;
+}
+
+
+
+
+
+
